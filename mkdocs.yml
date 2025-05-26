@@ -1,0 +1,12 @@
+site_name: RNAseqSE@Biomina
+repo_url: https://github.com/ligiamateiu/rna_biomina
+nav:
+    - User Guide: index.md
+    - Pipeline SE (Lexogen): https://github.com/ligiamateiu/rna_lexogen/tree/main/
+theme:
+  name: readthedocs
+  extra_css: [extra.css]
+  highlightjs: true
+  hljs_languages:
+        - yaml
+        - R
